@@ -1,0 +1,14 @@
+String Library
+
+must use #include<string.h> along with #include<stdio.h>
+
+1) strcat   :   combine two strings 
+
+2) strlen   :   find length of string
+
+3) strrev   :   reverse the string given
+
+4) strcpy   :   copies 2nd string to 1st one
+
+5) strcmp   :   compares two string based on ASCII values OR on orther parameters.
+
