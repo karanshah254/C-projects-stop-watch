@@ -74,10 +74,14 @@ int main()
     printf("\nRoute is : %s", d1.route);
     printf("\nKilometers are : %d", d1.kms);
 
+    printf("\n");
+
     printf("\nFor Driver No 2 :\nName is : %s", d2.name);
     printf("\nDL No is : %s", d2.dlno);
     printf("\nRoute is : %s", d2.route);
     printf("\nKilometers are : %d", d2.kms);
+
+    printf("\n");
 
     printf("\nFor Driver No 3 :\nName is : %s", d3.name);
     printf("\nDL No is : %s", d3.dlno);
