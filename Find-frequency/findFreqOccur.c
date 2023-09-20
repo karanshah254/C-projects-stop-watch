@@ -30,6 +30,7 @@ int main()
 
 /*
 
+
 sample : Enter : a11472o5t6
 
 Output : 0 2 1 0 1 1 1 1 0 0
